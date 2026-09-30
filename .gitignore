@@ -1,0 +1,6 @@
+venv/
+model/
+model_test.py
+result.txt
+result2.txt
+__pycache__/
